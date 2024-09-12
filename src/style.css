@@ -65,7 +65,7 @@ button:focus-visible {
   }
 }
 
-#bouncing-head {
+.bouncing-head {
   --width: 20em;
   --height: calc(var(--width) / 2);
 
@@ -76,8 +76,7 @@ button:focus-visible {
   background-repeat: no-repeat;
   position: absolute;
 
-  animation: toRight linear 10s infinite alternate,
-    bounce linear 17s infinite alternate;
+  animation: toRight linear 10s infinite alternate, bounce linear 17s infinite alternate;
   z-index: -1;
 }
 
