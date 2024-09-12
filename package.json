@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
+    "deploy": "vite build && vite-plugin-gh-pages",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -15,6 +16,7 @@
     "@vitejs/plugin-vue": "5.0.5",
     "typescript": "5.2.2",
     "vite": "5.3.4",
+    "vite-plugin-gh-pages": "1.0.0",
     "vue-tsc": "2.0.24"
   }
 }
