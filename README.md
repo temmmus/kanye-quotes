@@ -1,11 +1,11 @@
 # Kanye West Quote Generator
 
-A simple Vue.js application using Vite and TypeScript that fetches a random Kanye West quote when a button is clicked.
+A simple application that fetches a random Kanye West quote when a button is clicked.
 
 ## Features
 
 - Click the button to receive a random quote from Kanye West.
-- Built with Vue.js, Vite, TypeScript, HTML, and CSS.
+- Enjoy.
 
 ## Live Demo
 
@@ -33,9 +33,14 @@ To run this project locally, follow these steps:
    ```
 5. Open your browser and go to link from console.
 
-## Acknowledgements
+## Technologies
 
 - **[Vue.js](https://vuejs.org/)**: A progressive JavaScript framework used to build the user interface.
 - **[Vite](https://vitejs.dev/)**: A build tool and development server that provides fast hot module replacement.
 - **[TypeScript](https://www.typescriptlang.org/)**: A superset of JavaScript that adds static types.
+- **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**: Markup language for structuring web pages.
+- **[CSS](https://www.w3.org/Style/CSS/)**: : Stylesheet language for styling web pages.
+
+## Acknowledgements
+
 - **[Kanye West Quotes API](https://api.kanye.rest/)**: An API used to fetch random quotes from Kanye West.
